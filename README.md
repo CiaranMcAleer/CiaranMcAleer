@@ -1,16 +1,52 @@
-## Hi there 👋
+# Ciaran McAleer
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ciaran-mcaleer-540829245)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/CiaranMcAleer)
+ 
 
-<!--
-**CiaranMcAleer/CiaranMcAleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## About Me
+ 
 
-Here are some ideas to get you started:
+ Student at Queen's University Belfast studying BEng Software Engineering.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Experience
+ 
+
+ ### GLL
+ 
+
+ **Lifeguard** | September 2023 - Present
+ 
+
+ *Belfast, Northern Ireland, United Kingdom*
+ 
+
+ ### Mid Ulster District Council
+ 
+
+ **Lifeguard** | October 2018 - September 2023
+ 
+
+ *Magherafelt, Northern Ireland, United Kingdom*
+ 
+
+ ### ESB Networks
+ 
+
+ **Undergraduate Placement** | June 2022 - June 2023
+ 
+
+ *Dublin, County Dublin, Ireland*
+ 
+
+ ## Education
+ 
+
+ ### Queen's University Belfast
+ 
+
+ **Bachelor of Engineering - BEng, Software Engineering**
+ 
+
+ *September 2020 - June 2025*
