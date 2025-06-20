@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ciaran-mcaleer-540829245)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/CiaranMcAleer)
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=CiaranMcAleer&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
  ## About Me
  
 
