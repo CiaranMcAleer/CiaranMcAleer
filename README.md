@@ -6,7 +6,7 @@
  ## About Me
  
 
- Student at Queen's University Belfast studying BEng Software Engineering.
+ BEng Software Engineering graduate from Queen's University Belfast. 
  
 
  ## Experience
