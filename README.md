@@ -6,7 +6,7 @@
  ## About Me
  
 
- BEng Software Engineering graduate from Queen's University Belfast. 
+ Junior AI Engineer at @Trustie Technology. BEng Software Engineering graduate from Queen's University Belfast. 
  
 
  ## Experience
