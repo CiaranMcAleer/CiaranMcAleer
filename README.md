@@ -12,31 +12,41 @@
  ## Experience
  
 
- ### GLL
- 
+### Mid Ulster District Council
 
- **Lifeguard** | September 2023 - Present
- 
+**Lifeguard** | October 2018 - September 2023
 
- *Belfast, Northern Ireland, United Kingdom*
- 
+*Magherafelt, Northern Ireland, United Kingdom*
 
- ### Mid Ulster District Council
- 
+### Northern Health and Social Care Trust
 
- **Lifeguard** | October 2018 - September 2023
- 
+**Clerical Officer** | July 2021 - September 2021
 
- *Magherafelt, Northern Ireland, United Kingdom*
- 
+*Magherafelt, Northern Ireland, United Kingdom*
 
- ### ESB Networks
- 
+### ESB Networks
 
- **Undergraduate Placement** | June 2022 - June 2023
- 
+**Undergraduate Placement** | June 2022 - June 2023
 
- *Dublin, County Dublin, Ireland*
+*Dublin, County Dublin, Ireland*
+
+
+### GLL
+
+**Lifeguard** | September 2023 - October 2025
+
+*Belfast, Northern Ireland, United Kingdom*
+
+### Belfast Health and Social Care Trust
+
+**IT Support** | August 2025 - October 2025
+
+*Belfast, Northern Ireland, United Kingdom*
+
+### Trustie Technology ###
+
+**Junior AI Engineer** | October 2025 - Present
+
  
 
  ## Education
