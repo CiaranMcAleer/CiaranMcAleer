@@ -6,7 +6,7 @@
  ## About Me
  
 
- Junior AI Engineer at @Trustie Technology. BEng Software Engineering graduate from Queen's University Belfast. 
+ AI Engineer. BEng Software Engineering graduate from Queen's University Belfast. 
  
 
  ## Experience
@@ -45,7 +45,14 @@
 
 ### Trustie Technology ###
 
-**Junior AI Engineer** | October 2025 - Present
+**Junior AI Engineer** | October 2025 - February 2026
+
+### Belfast Health and Social Care Trust
+
+**IT Support** | February 2026 - Present
+
+*Belfast, Northern Ireland, United Kingdom*
+
 
  
 
