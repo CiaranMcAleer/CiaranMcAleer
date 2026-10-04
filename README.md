@@ -49,11 +49,13 @@
 
 ### Belfast Health and Social Care Trust
 
-**IT Support** | February 2026 - Present
+**IT Support** | February 2026 - May 2026
 
 *Belfast, Northern Ireland, United Kingdom*
 
+**ICT Level 4 (EO1)** | May 2026 - Present
 
+*Belfast, Northern Ireland, United Kingdom*
  
 
  ## Education
