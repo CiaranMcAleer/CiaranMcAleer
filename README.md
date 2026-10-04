@@ -43,7 +43,7 @@
 
 *Belfast, Northern Ireland, United Kingdom*
 
-### Trustie Technology ###
+### Trustie Technology
 
 **Junior AI Engineer** | October 2025 - February 2026
 
@@ -52,6 +52,8 @@
 **IT Support** | February 2026 - May 2026
 
 *Belfast, Northern Ireland, United Kingdom*
+
+### Electoral Office for Northern Ireland
 
 **ICT Level 4 (EO1)** | May 2026 - Present
 
